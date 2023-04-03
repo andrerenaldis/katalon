@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_BERKAT TECHNICA ABADI</name>
+   <tag></tag>
+   <elementGuidId>1baf084b-b257-4c60-ae02-2fa19a439637</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/nav/div/div/div/div/h2/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.site-title > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9c080773-0816-481e-91ae-1930688ab605</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.berkattechnica.com/</value>
+      <webElementGuid>707e5431-7e45-4580-aeba-1456654e6bd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>home</value>
+      <webElementGuid>b22bb077-2916-4292-8be1-8a2a00ee0cf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BERKAT TECHNICA ABADI</value>
+      <webElementGuid>cf10d204-adca-4216-946a-859eafdfc87b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/nav[@class=&quot;navbar navbar-expand-lg not-sticky navbar-light navbar-header-wrap header-sticky&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row align-self-center&quot;]/div[@class=&quot;align-self-center&quot;]/div[@class=&quot;site-branding-text&quot;]/h2[@class=&quot;site-title&quot;]/a[1]</value>
+      <webElementGuid>eb71d06c-898a-4dfa-a7eb-0f7d87d98001</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/nav/div/div/div/div/h2/a</value>
+      <webElementGuid>a94790a4-e106-4247-a3a9-2afbe1689286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'BERKAT TECHNICA ABADI')]</value>
+      <webElementGuid>b48e938f-b13b-4131-a783-9456f1daa508</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to content'])[1]/following::a[3]</value>
+      <webElementGuid>02bd04ac-6418-4d15-9565-eb26a286875e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::a[1]</value>
+      <webElementGuid>012ab8df-7898-4076-a195-ad78c3740f21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/preceding::a[2]</value>
+      <webElementGuid>5bb33b4a-3a9d-4755-afc7-4887a64eee32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BERKAT TECHNICA ABADI']/parent::*</value>
+      <webElementGuid>967169fa-667a-44c4-ba28-4fa9d16ca9bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.berkattechnica.com/')])[3]</value>
+      <webElementGuid>cfbb7fcd-742d-4e92-9252-e0ded15ded61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/a</value>
+      <webElementGuid>fc369e9b-6151-4885-8359-4ac7245d4d3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.berkattechnica.com/' and (text() = 'BERKAT TECHNICA ABADI' or . = 'BERKAT TECHNICA ABADI')]</value>
+      <webElementGuid>6faa42f9-3d1a-4548-bec8-bc72fd548412</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
